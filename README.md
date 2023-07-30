@@ -1,7 +1,7 @@
 # pandas2-challenge
 
 Report
- School charter score higher comparisons with district schools 
+The over passingin  charter schools  higher comparisons with district schools 
 
 student's scores in reading are better than their scores in math 
 Student in the ninth grade have low grades
